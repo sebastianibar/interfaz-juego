@@ -73,8 +73,6 @@ Se obtuvo un prototipo interactivo y visualmente coherente, con el flujo complet
 |---|---|---|
 | ![Menú de pausa](imgs/12-pausa.jpg) | ![Pantalla de Game Over](imgs/13-game-over.jpg) | ![Pantalla de Knockout](imgs/14-knockout.jpg) |
 
-Para ver todas las pantallas seleccionadas en un solo documento, abre la **[vista previa en PDF](docs/Heavens-Kitchen-Vista-Previa.pdf)**.
-
 **Lo que aprendí:** a diseñar interfaces de videojuego y armar un prototipo interactivo con transiciones en Figma. También practiqué el diseño de menús intuitivos y reforcé mi creatividad y la capacidad de pensar en el usuario (en este caso, el jugador). Me dejó bases de diseño UI/UX que sirven para planear una aplicación antes de programarla, y aprendí a trabajar en equipo manteniendo un estilo visual común.
 
 ## Autores
